@@ -1,4 +1,11 @@
-@import url(//db.onlinewebfonts.com/c/88c7cb10b703e0d8910b82df15e0cde5?family=Segoe+WP);
+@font-face {
+  font-family: 'Segoe WP';
+  src: url('SegoeWP.eot'); /* IE9 Compat Modes */
+  src: url('SegoeWP.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('SegoeWP.woff') format('woff'), /* Modern Browsers */
+       url('SegoeWP.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('SegoeWP.svg#svgSegoeWP') format('svg'); /* Legacy iOS */
+}
 body {font-family: 'Segoe WP', sans-serif;
       background-color: black;
       color: white;
