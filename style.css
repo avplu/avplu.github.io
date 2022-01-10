@@ -13,3 +13,10 @@ body {font-family: 'Segoe WP', sans-serif;
 h1 {
   font-size: 60px;
 }
+
+/* You're welcome, Alex. */
+
+a {
+  color: white;
+  opacity: 0.9;
+}
