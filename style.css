@@ -9,7 +9,17 @@
 body {font-family: 'Segoe WP', sans-serif;
       background-color: black;
       color: white;
+      padding-left: 10px;
 }
+
+a {
+  color: lightseagreen;
+}
+
+a:visited {
+  color: royalblue
+}
+
 h1 {
   font-size: 60px;
 }
