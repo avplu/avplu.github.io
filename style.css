@@ -7,7 +7,7 @@
        url('SegoeWP.svg#svgSegoeWP') format('svg'); /* Legacy iOS */
 }
 body {font-family: 'Segoe WP', sans-serif;
-      background-color: black;
+      background-color: rgb(50, 50, 50);
       color: white;
       padding-left: 10px;
 }
