@@ -14,13 +14,24 @@ body {font-family: 'Segoe WP', sans-serif;
 }
 
 a {
-  color: lightseagreen;
+  color: rgb(51, 105, 185);
+}
+
+a:hover {
+  color: cadetblue;
 }
 
 a:visited {
   color: royalblue
 }
 
+a:visited:hover {
+  color: cadetblue;
+}
+
 h1 {
   font-size: 60px;
 }
+
+button {font-family: 'Segoe WP', sans-serif;}
+button:hover {background-color:rgb(50, 50, 50); color: white };
