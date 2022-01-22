@@ -10,6 +10,7 @@ body {font-family: 'Segoe WP', sans-serif;
       background-color: rgb(50, 50, 50);
       color: white;
       padding-left: 10px;
+      text-align: center;
 }
 
 a {
